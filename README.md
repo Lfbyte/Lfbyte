@@ -1,48 +1,42 @@
-
-<h1>
-   <span>
-       <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/look.gif" />
-   </span>
-    <b>
-     Olá, Mundo!
-  </b>
-  <span>
-    <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp"/>
- </span>
+ <h1>
+       <span>
+           <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/look.gif" />
+       </span>
+       <b>Olá, Mundo!</b>
+       <span>
+           <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp"/>
+       </span>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=lfbyte&style=for-the-badge&label=visitaram" />
+
 <ul>
-   <li>Administrador de Sistemas(Sysadmin)💻</li>
-   <li>Estudando desenvolvimento web Full-Stack</li>
+   <li><b>Administrador de Sistemas(Sysadmin)💻</b></li>
+   <li><b>Estudando desenvolvimento web Full-Stack</b></li>
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" alt="html5" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" alt="css" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" alt="js" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angularjs/angularjs-plain.svg" alt="angular" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" alt="nodejs" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" alt="react" />
-   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" alt="postgresql" />
-   
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" alt="postgresql" />   
 </ul>
-
-
-
-<div align="center">
-     <div>
-         <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
-         <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
-     </div>
-</div>
-
-<h2>⚡ S</h2>
+<br />
+<h2>⚡ SOBRE MIM</h2>
    <ul>
-      <li>Apaixonado por tecnologia</li>
+      <li><b>📖 Bacharel em Ciência da Computação</b></li>
+      <li><b>📓 Leitor de livros, hq's e mangás</b></li>
+      <li>
+         <b>
+            🎮 Jogos antigos são os melhores!
+            <ul>
+               <li>
+                  Shinobi III: Return of The Ninja Master
+               </li>
+            </ul>
+         </b>
+      </li>
+      <li><b>Comida preferida: 🍕🍕🍕</b></li>     
    </ul>
- ○ Apreciador da cultura pop em geral <br />
- ○ Gamer nas horas vagas <br />
- ○ Eterno aprendiz de feiticeiro
- <br /> 
- <br />
-
 <hr />
 
 
@@ -85,4 +79,17 @@ da resolução de problemas desde os mais básicos até os mais complexos. Visit
     <a href="mailto:luiz.contato07@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+  </span>
 </div>
+
+
+
+
+
+<div align="center">
+     <div>
+         <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
+         <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
+     </div>
+</div>
+
