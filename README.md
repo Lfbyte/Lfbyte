@@ -11,13 +11,28 @@
  </span>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=lfbyte&style=for-the-badge&label=visitaram" />
+<ul>
+   <li>Administrador de Sistemas(Sysadmin)💻</li>
+   <li>Estudando desenvolvimento web Full-Stack</li>
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/html5/html5-original.svg" alt="html5" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/css3/css3-original.svg" alt="css" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" alt="js" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angularjs/angularjs-plain.svg" alt="angular" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" alt="react" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" alt="postgresql" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" alt="nodejs" />
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/linux/linux-original.svg" alt="linux" />
+</ul>
+
+
+
 <div align="center">
      <div>
          <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
          <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
      </div>
 </div>
-<p align="center">Estabelecendo coisas e c</p>
+
 <h2>⚡ S</h2>
    <ul>
       <li>Apaixonado por tecnologia</li>
