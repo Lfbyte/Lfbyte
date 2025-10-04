@@ -66,7 +66,6 @@ Participo da comunidade do CodeWars voltada para o aumento das habilidades de co
 da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluções clicando no ->[Link](https://www.codewars.com/users/Tr0nGuy)<-
 
 <img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
-<h1></h1>
 
 <div> 
   <span>
