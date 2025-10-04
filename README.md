@@ -1,11 +1,18 @@
-## Olá, seja bem-vindo ao meu github! 👋
-<h4>Sobre mim</h4>
+<h1>
+ <b>Olá, seja bem-vindo ao meu github!</b>
+  <span>
+    <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp"/>
+ </span>
+</h1>
+<img src="https://komarev.com/ghpvc/?username=lfbyte&style=for-the-badge&label=número+de+visitas" />
+
+<h3>Sobre mim</h3>
  ○ Apaixonado por tecnologia<br />
  ○ Apreciador da cultura pop em geral <br />
  ○ Gamer nas horas vagas <br />
  ○ Eterno aprendiz de feiticeiro
  <br /> <br />
-<img src="https://komarev.com/ghpvc/?username=lfbyte&style=flat&label=Visitantes">
+
 <hr />
 
 
