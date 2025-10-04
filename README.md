@@ -37,8 +37,8 @@
 
 <br>
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=radical">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbyte&layout=compact&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbyte&layout=compact&theme=tokyonight">
   </div>
 <hr />
       
