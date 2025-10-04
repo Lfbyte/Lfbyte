@@ -17,15 +17,11 @@
          <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
      </div>
 </div>
-
-
-  
-
-
-
-
-<h2>Sobre mim</h2>
- ○ Apaixonado por tecnologia<br />
+<p align="center">Estabelecendo coisas e c</p>
+<h2>⚡ S</h2>
+   <ul>
+      <li>Apaixonado por tecnologia</li>
+   </ul>
  ○ Apreciador da cultura pop em geral <br />
  ○ Gamer nas horas vagas <br />
  ○ Eterno aprendiz de feiticeiro
