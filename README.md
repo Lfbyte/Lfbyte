@@ -4,7 +4,11 @@
  ○ Apreciador da cultura pop em geral <br />
  ○ Gamer nas horas vagas <br />
  ○ Eterno aprendiz de feiticeiro
+ <br /> <br />
+<img src="https://komarev.com/ghpvc/?username=lfbyte&style=flat&label=Visitantes">
 <hr />
+
+
 <br>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=radical">
