@@ -1,16 +1,16 @@
 ## Olá, seja bem-vindo ao meu github! 👋
 <h4>Sobre mim</h4>
- ○ Apaixonado por tecnologia<br>
- ○ Apreciador da cultura pop em geral <br>
- ○ Gamer nas horas vagas <br>
+ ○ Apaixonado por tecnologia<br />
+ ○ Apreciador da cultura pop em geral <br />
+ ○ Gamer nas horas vagas <br />
  ○ Eterno aprendiz de feiticeiro
-<h1></h1>
+<hr />
 <br>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=radical">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbyte&layout=compact&theme=radical">
   </div>
-<h2></h2>
+<hr />
       
 ### Tecnologias que utilizo
 <div style="display:inline-block;">
@@ -23,7 +23,8 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img height="150" width="230" align="right" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/programming.gif">  
 </div>
-<br/><br/>
+<br />
+<br />
 <h4>Codewars</h4>
 
 Participo da comunidade do CodeWars voltada para o aumento das habilidades de codificação por meio
@@ -35,7 +36,7 @@ da resolução de problemas desde os mais básicos até os mais complexos. Visit
 <div> 
   <span>
    <a href="https://www.linkedin.com/in/contato07">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  
  </span>
