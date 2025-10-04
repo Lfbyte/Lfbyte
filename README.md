@@ -11,7 +11,7 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=lfbyte&style=for-the-badge&label=visitaram" />
 <p align="center">
-   <a href="www.linkedin.com/in/contato07" target="_blank" rel="noopener">
+   <a href="www.linkedin.com/in/contato07">
       <img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" />            
    </a>
 </p>
