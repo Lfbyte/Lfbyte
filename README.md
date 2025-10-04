@@ -1,6 +1,7 @@
+
 <h1>
-   <span style="border:9px solid red; ">
-    <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/look.gif" />
+   <span>
+       <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/look.gif" />
    </span>
     <b>
      Olá terráqueo! seja bem-vindo ao meu github
@@ -10,11 +11,14 @@
  </span>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=lfbyte&style=for-the-badge&label=visitaram" />
-<p align="center">
-   <a href="https://www.linkedin.com/in/contato07">
-      <img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" />            
-   </a>
-</p>
+<div align="center">
+     <div>
+         <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
+         <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
+     </div>
+</div>
+
+
   
 
 
