@@ -19,7 +19,7 @@
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" alt="nodejs" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" alt="react" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" alt="postgresql" />
-   <li><p>Participo da comunidade do CodeWars voltada para o treino e aumento das habilidades de codificação por meio da resolução de problemas básicos ou complexos. Visite as minhas soluções clicando no -> <a href="https://www.codewars.com/users/Tr0nGuy">Link</a> <-</p></li>
+   <li><p><b>Participo da comunidade do CodeWars voltada para o treino e aumento das habilidades de codificação por meio da resolução de problemas básicos ou complexos. Visite as minhas soluções clicando no -> <a href="https://www.codewars.com/users/Tr0nGuy">Link</a> <- </b></p></li>
 <img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
 </ul>
 <br />
