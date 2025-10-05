@@ -18,7 +18,13 @@
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/angularjs/angularjs-plain.svg" alt="angular" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" alt="nodejs" />
    <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" alt="react" />
-   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" alt="postgresql" />   
+   <img height="35em" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" alt="postgresql" />
+   <li>
+      <p>Participo da comunidade do CodeWars voltada para o treino e aumento das habilidades de codificação por meio da resolução de problemas básicos ou complexos. Visite as minhas       soluções clicando no -><a href="https://www.codewars.com/users/Tr0nGuy">Link</a><-</p>   
+   </li>
+ 
+
+<img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
 </ul>
 <br />
 <h2>⚡ SOBRE MIM</h2>
@@ -29,9 +35,9 @@
          <b>
             🎮 Jogos antigos são os melhores!
             <ul>
-               <li>
+               <li><i>
                   Shinobi III: Return of The Ninja Master
-               </li>
+               </i></li>
             </ul>
          </b>
       </li>
@@ -53,17 +59,11 @@
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img height="150" width="230" align="right" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/programming.gif">  
 </div>
-<br />
-<h2>Codewars</h2>
+<img height="150" width="230"   src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/programming.gif"> 
+<h2>🌐 CONTATOS</h2>
 
-<h4>Participo da comunidade do CodeWars voltada para o aumento das habilidades de codificação por meio
-da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluções clicando no </h4>->[Link](https://www.codewars.com/users/Tr0nGuy)<-
-
-<img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
-
-<div align="center">
+<div>
      <div>
          <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
          <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
