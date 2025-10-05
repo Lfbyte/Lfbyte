@@ -69,4 +69,3 @@
          <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
      </div>
 </div>
-
