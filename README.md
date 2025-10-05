@@ -39,15 +39,12 @@
    </ul>
    <br />
 
-<h2>⚡ SOBRE MIM</h2>
-<br>
+<h2>📚 TÓPICOS DE ESTUDO</h2>
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbyte&layout=compact&theme=tokyonight">
+    <h4>🐧 GNU/Linux</h4>
   </div>
-<hr />
       
-<h3>👨‍💻 FERRAMENTAS E TECNOLOGIAS</h3>
+<h2>👨‍💻 FERRAMENTAS E TECNOLOGIAS</h2>
 <div style="display:inline-block;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -59,11 +56,10 @@
   <img height="150" width="230" align="right" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/programming.gif">  
 </div>
 <br />
-<br />
-<h4>Codewars</h4>
+<h2>Codewars</h2>
 
-Participo da comunidade do CodeWars voltada para o aumento das habilidades de codificação por meio
-da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluções clicando no ->[Link](https://www.codewars.com/users/Tr0nGuy)<-
+<h4>Participo da comunidade do CodeWars voltada para o aumento das habilidades de codificação por meio
+da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluções clicando no </h4>->[Link](https://www.codewars.com/users/Tr0nGuy)<-
 
 <img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
 
