@@ -47,7 +47,9 @@
 
 <h2>📚 TÓPICOS DE ESTUDO</h2>
   <div>
-    <h4>🐧 GNU/Linux</h4>
+    <ul>
+      <li><b>🐧 GNU/Linux</b></li>
+    </ul>
   </div>
       
 <h2>👨‍💻 FERRAMENTAS E TECNOLOGIAS</h2>
