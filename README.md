@@ -37,9 +37,9 @@
       </li>
       <li><b>Comida preferida: 🍕🍕🍕</b></li>     
    </ul>
-<hr />
+   <br />
 
-
+<h2>⚡ SOBRE MIM</h2>
 <br>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=tokyonight">
@@ -66,24 +66,6 @@ Participo da comunidade do CodeWars voltada para o aumento das habilidades de co
 da resolução de problemas desde os mais básicos até os mais complexos. Visite as minhas soluções clicando no ->[Link](https://www.codewars.com/users/Tr0nGuy)<-
 
 <img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
-
-<div> 
-  <span>
-   <a href="https://www.linkedin.com/in/contato07">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
- 
- </span>
-  <span>
-    <a href="mailto:luiz.contato07@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </span>
-</div>
-
-
-
-
 
 <div align="center">
      <div>
