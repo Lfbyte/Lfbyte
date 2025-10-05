@@ -43,7 +43,7 @@
 <h2>📚 TÓPICOS DE ESTUDO</h2>
   <div>
     <ul>
-      <li><b>🐧 GNU/Linux</b></li>
+      <li><b>🐧 GNU/Linux(I USE ARCH BTW!)</b></li>
       <li><b>:atom: Linguagens de programação e Frameworks</b></li>
       <li><b>📙 História da Computação</b></li>
       <li><b>📘 História Geral</b></li>
