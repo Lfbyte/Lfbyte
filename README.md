@@ -47,7 +47,7 @@
       <li><b>:atom: Linguagens de programação e Frameworks</b></li>
       <li><b>📙 História da Computação</b></li>
       <li><b>📘 História Geral</b></li>
-      <li><b>💻 Devops</b></li>
+      <li><b>💻 Devops e Containers</b></li>
       <li><b>🤖 IA</b></li>
     </ul>
   </div>
