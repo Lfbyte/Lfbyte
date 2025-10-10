@@ -62,9 +62,10 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
+<br />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfbyte&theme=zenburn">
 <img height="150" width="230"   src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/programming.gif"> 
 <h2>🌐 CONTATOS</h2>
-
 <div>
      <div>
          <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
