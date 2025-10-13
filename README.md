@@ -25,7 +25,7 @@
 <br />
 <h2>⚡ SOBRE MIM</h2>
    <ul>
-      <li><b>💻 Administrador de Sistemas(Sysadmin)</b></li>
+      <li><b>💻 Administrador de Sistemas | SRE Devops</b></li>
       <li><b>📖 Bacharel em Ciência da Computação</b></li>
       <li><b>📓 Leitor de livros, hq's e mangás</b></li>
       <li>
