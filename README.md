@@ -27,16 +27,28 @@
    <ul>
       <li><b>💻 Administrador de Sistemas | SRE Devops</b></li>
       <li><b>📖 Bacharel em Ciência da Computação</b></li>
-      <li><b>📓 Leitor de livros, hq's e mangás</b></li>
+       </li>
       <li>
          <b>
-            🎮 Jogos antigos são os melhores!
-            <ul>
-               <li><i>Shinobi III: Return of The Ninja Master</i></li>
-            </ul>
+           ✍️Tenho um blog chamado: <i>&lt;Lfbytez /&gt;</i>
          </b>
-      </li>
-      <li><b>Comida preferida: 🍕🍕🍕</b></li>     
+      </li> 
+      <li>
+       <b>
+          🧔 Hobbies: 
+           <ul type="disc">
+            <li>🐧 Gosto de estudar sobre o mundo GNU/Linux e OpenSource</li>
+            <li><b>📓 Leitor de livros e mangás</b></li>
+            <li>
+                <b>
+                  🎮 Jogos antigos são os melhores!
+                <ul>
+                 <li>🥷<i>Shinobi III: Return of The Ninja Master</i></li>
+               </ul>
+           </b>
+           </ul>
+       </b>
+     </li>     
    </ul>
    <br />
 
