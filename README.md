@@ -39,13 +39,15 @@
            <ul type="disc">
             <li>🐧 Gosto de estudar sobre o mundo GNU/Linux e OpenSource</li>
             <li><b>📓 Leitor de livros e mangás</b></li>
+            <li><b>📽️ Gosto de filmes e séries de Sci-Fi, Comédia e Animações</b></li>
             <li>
                 <b>
-                  🎮 Jogos antigos são os melhores!
-                <ul>
-                 <li>🥷<i>Shinobi III: Return of The Ninja Master</i></li>
-               </ul>
-           </b>
+                  🎮 Retrogames são os melhores 😎
+                  <ul>
+                    <li>🥷<i>Shinobi III: Return of The Ninja Master</i></li>
+                 </ul>
+               </b>
+            </li>
            </ul>
        </b>
      </li>     
