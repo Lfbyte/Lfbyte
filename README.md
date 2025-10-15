@@ -53,10 +53,10 @@
      </li>     
    </ul>
    <div>
-      <img height="180" alt="sotn"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sotn.webp" /> 
-      <img height="180"  alt="Link"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/Link.gif" />  
-      <img height="160"  alt="mario_kart" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/mario_kart.gif" />
-      <img height="160"  alt="sonic"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sonic.webp" />  
+      <img height="150" alt="sotn"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sotn.webp" /> 
+      <img height="150"  alt="Link"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/Link.gif" />  
+      <img height="130"  alt="mario_kart" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/mario_kart.gif" />
+      <img height="130"  alt="sonic"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sonic.webp" />  
    </div>
    <br />
 
