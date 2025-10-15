@@ -37,7 +37,7 @@
        <b>
           🧔 Hobbies: 
            <ul type="disc">
-            <li>🐧 Aprender sobre o mundo GNU/Linux e OpenSource</li>
+            <li>🐧 Estudar sobre o mundo GNU/Linux e OpenSource</li>
             <li><b>📓 Leitor de livros e mangás</b></li>
             <li><b>📽️ Filmes e séries de Sci-Fi, Comédia e Animações</b></li>
             <li>
@@ -53,9 +53,9 @@
      </li>     
    </ul>
    <div>
-    <img height="100"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sotn.webp" />
-    <img height="60" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/mario_kart.gif" />
-    <img height="60"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sonic.webp" />
+    <img height="100" alt="sotn"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sotn.webp" />
+    <img height="60"  alt="mario_kart" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/mario_kart.gif" />
+    <img height="60"  alt="sonic"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sonic.webp" />
    
     
    </div>
