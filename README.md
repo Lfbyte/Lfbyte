@@ -37,9 +37,9 @@
        <b>
           🧔 Hobbies: 
            <ul type="disc">
-            <li>🐧 Gosto de estudar sobre o mundo GNU/Linux e OpenSource</li>
+            <li>🐧 Aprender sobre o mundo GNU/Linux e OpenSource</li>
             <li><b>📓 Leitor de livros e mangás</b></li>
-            <li><b>📽️ Gosto de filmes e séries de Sci-Fi, Comédia e Animações</b></li>
+            <li><b>📽️ Filmes e séries de Sci-Fi, Comédia e Animações</b></li>
             <li>
                 <b>
                   🎮 Retrogames são os melhores 😎
