@@ -53,9 +53,10 @@
      </li>     
    </ul>
    <div>
+    <img height="100"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sotn.webp" />
     <img height="60" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/mario_kart.gif" />
     <img height="60"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sonic.webp" />
-    <img height="160"    src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sotn.webp" />
+   
     
    </div>
    <br />
