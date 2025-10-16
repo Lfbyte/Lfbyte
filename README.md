@@ -73,6 +73,9 @@
       <li><b>💻 Devops e Containers</b></li>
       <li><b>🤖 IA</b></li>
     </ul>
+   <p align="center">
+   <img height="80" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/computer.gif">
+  </p>
   </div>
       
 <h2>👨‍💻 FERRAMENTAS E TECNOLOGIAS</h2>
