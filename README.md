@@ -42,7 +42,7 @@
             <li><b>📽️ Filmes e séries de Sci-Fi, Comédia e Animações</b></li>
             <li>
                 <b>
-                  🎮 Retrogames são os melhores jogos! 😎
+                  🎮 Retrogames são os melhores!😎
                   <ul>
                     <li>🥷<i>Shinobi III: Return of The Ninja Master</i></li>
                  </ul>
