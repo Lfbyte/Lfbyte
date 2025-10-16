@@ -74,7 +74,7 @@
       <li><b>🤖 IA</b></li>
     </ul>
    <p align="center">
-   <img height="80" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/computer.gif">
+   <img height="120" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/computer.gif">
   </p>
   </div>
       
