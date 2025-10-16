@@ -25,7 +25,7 @@
 <br />
 <h2>⚡ SOBRE MIM</h2>
    <ul>
-      <li><b>💻 Administrador de Sistemas | SRE Devops</b></li>
+      <li><h3><b>💻 Administrador de Sistemas | SRE Devops</b></h3></li>
       <li><b>📖 Bacharel em Ciência da Computação</b></li>
        </li>
       <li>
