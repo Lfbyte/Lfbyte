@@ -42,7 +42,7 @@
             <li><b>📽️ Filmes e séries de Sci-Fi, Comédia e Animações</b></li>
             <li>
                 <b>
-                  🎮 Retrogames são os melhores!😎
+                  🎮 Retrogames são os melhores! 😎
                   <ul>
                     <li>🥷<i>Shinobi III: Return of The Ninja Master</i></li>
                  </ul>
@@ -58,7 +58,7 @@
      <img height="90"  alt="mario_kart" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/mario_kart.gif" />
      <img height="90"  alt="Link"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/Link.gif" />  
      <img height="90"  alt="Link"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/iori.gif" />  
-      
+     <img height="90"  alt="Ryu"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/Ryu.gif" />   
         
    </div>
    <br />
