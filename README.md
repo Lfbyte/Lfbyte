@@ -4,7 +4,7 @@
        </span>
        <b>Olá, Mundo!</b>
        <span>
-           <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp"/>
+           <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/hand.webp"/>
        </span>
 </h1>
 <img src="https://komarev.com/ghpvc/?username=lfbyte&style=for-the-badge&label=visitaram" />
