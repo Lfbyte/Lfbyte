@@ -44,7 +44,7 @@
                 <b>
                   🎮 Retrogames são os melhores 😎
                   <ul>
-                    <li>🥷Recomendação:<i>Shinobi III: Return of The Ninja Master</i></li>
+                    <li>🥷Recomendação:<i>Shinobi III: Ninja Master</i></li>
                  </ul>
                </b>
             </li>
