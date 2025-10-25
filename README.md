@@ -85,7 +85,6 @@
   </div>
   <br />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfbyte&theme=zenburn">
-<img height="150" width="230"   src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/programming.gif"> 
 <h2>🌐 CONTATOS</h2>
 <div>
      <div>
