@@ -3,9 +3,7 @@
            <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/look.gif" />
        </span>
        <b>Olá, Mundo!</b>
-       <span>
-           <img style="height:1.5em; width:auto; vertical-align:-0.1em;" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/hand.webp"/>
-       </span>
+       <span>👋</span>
 </h1>
 <ul>
    
