@@ -8,7 +8,7 @@
 <ul>
    
    <li><b>Estudando desenvolvimento web Full-Stack</b></li>
-     <img height="90"  alt="techs"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/techss.png" />
+     <img height="90"  alt="tecss"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/tech1.webp" />
    <li><p><b>Participo da comunidade do CodeWars voltada para o treino e aumento das habilidades de codificação por meio da resolução de problemas básicos ou complexos. Veja as minhas soluções clicando 
     no -> <a href="https://www.codewars.com/users/Tr0nGuy">Link</a> <- </b></p></li>
 <img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
