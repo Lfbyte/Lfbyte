@@ -72,8 +72,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfbyte&theme=zenburn">
 <h2>🌐 CONTATOS</h2>
 <div>
-     <div>
-         <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="60px"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/linkedin.webp" /></a>
-         <a href="mailto:luiz.contato07@gmail.com"><img height="60px" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/gmail.webp" /></a>
+     <div style="display:inline-block;">
+         <a href="https://www.linkedin.com/in/contato07" target="_blank"><img height="150" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"></a>
+      <a href="mailto:luiz.contato07@gmail.com"><img height="150" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
      </div>
 </div>
