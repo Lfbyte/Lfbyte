@@ -61,7 +61,7 @@
       
 <h2>👨‍💻 FERRAMENTAS E TECNOLOGIAS</h2>
 <div style="display:inline-block;">
-    <img alt="tech2" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/techs1.webp">
+    <img alt="tech2" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/tech1.webp">
 </div>
 <br />
   <div>
