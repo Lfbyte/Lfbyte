@@ -44,7 +44,6 @@
    </ul>
    <div>
     <p align="center">
-     <img height="90"  alt="sonic"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/sonic.webp" />
      <img height="90"  alt="iori"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/iori.gif" />     
     </p>
    </div>
