@@ -42,11 +42,6 @@
        </b>
      </li>     
    </ul>
-   <div>
-    <p align="center">
-     <img height="90"  alt="iori"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/iori.gif" />     
-    </p>
-   </div>
    <br />
 
 <h2>📚 TÓPICOS DE ESTUDO</h2>
