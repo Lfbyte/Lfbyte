@@ -11,7 +11,6 @@
 <img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
 </ul>
 <h2>⚡ SOBRE MIM</h2>
-   <ul>
       <li><b>💻 Administrador de Sistemas | SRE Devops</b></li>
       <li><b>📖 Bacharel em Ciência da Computação</b></li>
        </li>
