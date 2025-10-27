@@ -8,7 +8,8 @@
      <img height="50"  alt="tech1"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/tech2.webp" />
    <li><p><b>Participo da comunidade do CodeWars voltada para o treino e aumento das habilidades de codificação por meio da resolução de problemas básicos ou complexos. Veja as minhas soluções clicando 
     no -> <a href="https://www.codewars.com/users/Tr0nGuy">Link</a> <- </b></p></li>
-<img src="https://www.codewars.com/users/Tr0nGuy/badges/large">
+
+     <img height="50"  alt="badge"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/badge.webp" />
 </ul>
 <h2>⚡ SOBRE MIM</h2>
       <li><b>💻 Administrador de Sistemas | SRE Devops</b></li>
@@ -51,7 +52,7 @@
       <li><b>🤖 IA</b></li>
     </ul>
    <p align="center">
-   <img height="120" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/computer.gif">
+   <img height="120" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/computer.webp">
   </p>
   </div>
       
