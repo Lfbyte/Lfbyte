@@ -5,10 +5,9 @@
 <ul>
    
    <li><b>Estudando desenvolvimento web Full-Stack</b></li>
-     <img height="50"  alt="tech1"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/tech2.webp" />
+     <img height="40"  alt="tech1"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/tech2.webp" />
    <li><p><b>Participo da comunidade do CodeWars voltada para o treino e aumento das habilidades de codificação por meio da resolução de problemas básicos ou complexos. Veja as minhas soluções clicando 
     no -> <a href="https://www.codewars.com/users/Tr0nGuy">Link</a> <- </b></p></li>
-
      <img height="50"  alt="badge"  src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/badge.webp" />
 </ul>
 <h2>⚡ SOBRE MIM</h2>
