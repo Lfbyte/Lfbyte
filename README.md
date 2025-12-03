@@ -60,10 +60,7 @@
     <img alt="tech2" src="https://raw.githubusercontent.com/Lfbyte/Lfbyte/refs/heads/main/imagens/tech1.webp">
 </div>
 <br />
-  <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbyte&layout=compact&theme=tokyonight">
-  </div>
-  <br />
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lfbyte&theme=zenburn">
 <h2>🌐 CONTATOS</h2>
 <div>
