@@ -61,7 +61,6 @@
 </div>
 <br />
   <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lfbyte&show_icons=true&theme=tokyonight">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfbyte&layout=compact&theme=tokyonight">
   </div>
   <br />
